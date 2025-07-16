@@ -1,4 +1,4 @@
-module Omniauth
+module OmniAuth
   module Keycloak
     VERSION = "1.3.0"
   end
